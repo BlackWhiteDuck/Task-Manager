@@ -423,12 +423,12 @@ e - exit
     elif menu == 'vm':      # elif statement for the user to view their specific tasks
         view_mine()
 
-    elif menu == 'gr':
+    elif menu == 'gr':      # elif statement for the user to generate reports
         gen_rep()
 
-    elif menu == 'e':
-        print('Goodbye!!!')
+    elif menu == 'e':       # elif statement for the user to exit the menu 
+        print('Goodbye!!!') # printed out "Goodbye!!!"
         exit()
 
-    else:
-        print("You have made a wrong choice, Please Try again")
+    else:                   # else statement for if the user inputted something which does not align with the options
+        print("You have made a wrong choice, Please Try again") # printed out error statement

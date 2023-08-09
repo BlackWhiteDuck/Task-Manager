@@ -3,15 +3,3 @@ The percentage of the total number of tasks assigned to your user of choice is 6
 The percentage of the completed tasks of your user of choice is 50.0%
 The percentage of the tasks that are incomplete of your user of choice is 50.0%
 The percentage of the tasks that are incomplete and overdue of your user of choice is 50.0%
-The percentage of the total number of tasks assigned to your user of choice is 66.67%
-The percentage of the completed tasks of your user of choice is 50.0%
-The percentage of the tasks that are incomplete of your user of choice is 50.0%
-The percentage of the tasks that are incomplete and overdue of your user of choice is 50.0%The total number of tasks assigned to your user of choice is 2
-The percentage of the total number of tasks assigned to your user of choice is 66.67%
-The percentage of the completed tasks of your user of choice is 50.0%
-The percentage of the tasks that are incomplete of your user of choice is 50.0%
-The percentage of the tasks that are incomplete and overdue of your user of choice is 50.0%The total number of tasks assigned to your user of choice is 2
-The percentage of the total number of tasks assigned to your user of choice is 66.67%
-The percentage of the completed tasks of your user of choice is 50.0%
-The percentage of the tasks that are incomplete of your user of choice is 50.0%
-The percentage of the tasks that are incomplete and overdue of your user of choice is 50.0%

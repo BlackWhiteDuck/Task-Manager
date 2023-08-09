@@ -427,7 +427,7 @@ e - exit
         gen_rep()
 
     elif menu == 'e':       # elif statement for the user to exit the menu 
-        print('Goodbye!!!') # printed out "Goodbye!!!"
+        print('Goodbye!!!') # printed out "Goodbye!!!
         exit()
 
     else:                   # else statement for if the user inputted something which does not align with the options
